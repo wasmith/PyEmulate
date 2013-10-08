@@ -3,7 +3,7 @@ from random import randint
 from math import atan2, sin, cos, degrees as deg, radians as rad, asin, pi
 import time, datetime
 
-Copyright (c) 2013 Will Smith - All Rights Reserved
+#Copyright (c) 2013 Will Smith - All Rights Reserved
 
 class Emulation:
 
